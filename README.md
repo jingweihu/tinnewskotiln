@@ -6,9 +6,9 @@ This is Kotlin version of the TinNews
 ## What you learn here
 
 * Jetpat Navigation Component
-* Simple MVVM Architecture
+* Simple MVVM Architecture(LiveData/ViewModel)
 * Room 
-* Retrofit
+* Retrofit/Coroutines
 * Kotlin
 
 ## Preview
